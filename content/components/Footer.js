@@ -6,6 +6,7 @@ import {TiSocialInstagram} from 'react-icons/ti'
 import {TiSocialTwitter} from 'react-icons/ti'
 import {TiSocialLinkedin} from 'react-icons/ti'
 import {SiWhatsapp} from 'react-icons/si'
+import Link from 'next/link'
 
 
 export default function Footer() {
@@ -13,16 +14,27 @@ export default function Footer() {
     <footer className='grid justify-center bg-slate-900 text-white text-center py-9'>
       <a href="#" className='flex gap-3 justify-center mb-3'>
       <span>BACK TO THE TOP</span>
-      <span><BsArrowUpSquareFill className='w-7 h-6'/></span>
+      <BsArrowUpSquareFill className='w-7 h-6'/>
       </a>
       <span className='flex justify-center gap-3 mb-3'>
-        <a href='https//:facebook.com/tesimune' target='_blank'><TiSocialFacebook/></a>
-        <a href='https//:instagram.com/tesimune' target='_blank'><TiSocialInstagram/></a>
-        <a href='https//:twitter.com/tesimune' target='_blank'><TiSocialTwitter/></a>
-        <a href='https//:linkedin.com/tesimune' target='_blank'><TiSocialLinkedin/></a>
-        <a href='https//:wa.com/tesimune' target='_blank'><SiWhatsapp/></a>
+        <Link href='https://facebook.com/tesimune'>
+          <a target='_blank'><TiSocialFacebook/></a>
+        </Link>
+        <Link href='https://instagram.com/tesimune'>
+        <a target='_blank'><TiSocialInstagram/></a>
+
+        </Link>
+        <Link href='https://twitter.com/tesimune'>
+          <a target='_blank'><TiSocialTwitter/></a>
+        </Link>
+        <Link href='https://linkedin.com/tesimune'>
+          <a target='_blank'><TiSocialLinkedin/></a>
+        </Link>
+        <Link href='https://wa.me/08067988642'>
+          <a target='_blank'><SiWhatsapp/></a>
+        </Link>
       </span>
-      <a href="#" >@2022 <strong>Teslim</strong> All Right Reserved.</a>  
+      <a href="#" >@{new Date().getFullYear()} <strong>Teslim</strong> &copy; All Right Reserved.</a>  
     </footer>
   )
 }

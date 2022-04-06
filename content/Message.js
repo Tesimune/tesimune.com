@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function Message() {
   return (
@@ -9,7 +10,9 @@ export default function Message() {
         <input className='md:w-3/5  w-full p-3 rounded border-l-2 border-black outline-none shadow-2xl' type='email' placeholder='Email Address'/>
         <input className='md:w-3/5 p-3 w-full rounded border-l-2 border-black outline-none shadow-2xl' type='text' placeholder='Name'/>
         <textarea className='md:w-3/5 p-3 w-full rounded border-l-2 border-black outline-none shadow-2xl' type='text' placeholder='Message'/>
-        <button className='bg-blue-300 p-3 rounded-md w-28 font-semibold shadow-2xl'>SUBMIT</button>
+        <Link href="mailto:tesimune@gmail.com">
+          <a target='_blank' className='bg-blue-300 p-3 rounded-md w-28 font-semibold shadow-2xl'>SUBMIT</a>
+        </Link>
       </form>
     </div>
   )

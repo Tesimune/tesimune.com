@@ -2,7 +2,6 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Header from '../content/components/Header'
 import Navbar from '../content/Navbar'
-import Mobilenavbar from '../content/Mobilenavbar'
 import Index from '../content/Index'
 import About from '../content/About'
 import Explore from '../content/Explore'
@@ -21,7 +20,6 @@ export default function Home() {
 
       <main className=''>
         <Navbar/>
-        <Mobilenavbar/>
         <Index/>
         <About/>
         <Explore/>
