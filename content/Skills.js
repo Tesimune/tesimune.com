@@ -33,19 +33,19 @@ export default function Skills() {
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
                 <SiJavascript className='text-yellow-500 w-16 h-14 m-3'/>
                 <p className='font-bold m-3'>JS</p>
-                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>8/10</i></span>
+                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>7/10</i></span>
                 
             </span>
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
                 <SiPhp className='text-purple-900 w-16 h-14 m-3'/>
                 <p className='font-bold m-3'>PHP</p>
-                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>8/10</i></span>
+                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>7/10</i></span>
                 
             </span>
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
                 <SiBootstrap className='text-purple-500 w-16 h-14 m-3'/>
                 <p className='font-bold m-3'>Bootstrap</p>
-                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>10/10</i></span>
+                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>8/10</i></span>
                
             </span>
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
@@ -56,18 +56,18 @@ export default function Skills() {
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
                 <SiReact className='text-blue-400 w-16 h-14 m-3'/>
                 <p className='font-bold m-3'>React</p>
-                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>9/10</i></span>
+                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>6/10</i></span>
             </span>
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
                 <SiLaravel className='text-red-600 w-16 h-14 m-3'/>
                 <p className='font-bold m-3'>Laravel</p>
-                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>8/10</i></span>
+                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>7/10</i></span>
                 
             </span>
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
                 <SiGithub className='w-16 h-14 m-3'/>
                 <p className='font-bold m-3'>GitHub</p>
-                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>10/10</i></span>
+                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>8/10</i></span>
             </span>
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
                 <SiVuedotjs className='text-green-500 w-16 h-14 m-3'/>
@@ -78,12 +78,12 @@ export default function Skills() {
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
                 <SiNextdotjs className='w-16 h-14 m-3'/>
                 <p className='font-bold m-3'>Next</p>
-                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>9/10</i></span>
+                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>7/10</i></span>
             </span>
             <span className='grid justify-center bg-transparent-500 md:p-3 md:w-36 h-44 shadow-2xl shadow-black rounded-lg hover:m-3'>
                 <SiMysql className='text-orange-700 w-16 h-14 m-3'/>
                 <p className='font-bold m-3'>MySQL</p>
-                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>9/10</i></span>
+                <span className='flex justify-center'><BsStarFill className='text-yellow-400'/> <i className='text-xs ml-1'>7/10</i></span>
                 
             </span>
 
