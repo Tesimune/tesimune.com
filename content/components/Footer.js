@@ -27,7 +27,8 @@ export default function Footer() {
         <Link href='https://twitter.com/tesimune'>
           <a target='_blank'><TiSocialTwitter/></a>
         </Link>
-        <Link href='https://linkedin.com/tesimune'>
+        <Link href='https://www.linkedin.com/in/tesimune/'>
+          {/* https://www.linkedin.com/in/teslim-abdulwahab-151b72201/ */}
           <a target='_blank'><TiSocialLinkedin/></a>
         </Link>
         <Link href='https://wa.me/08067988642'>

@@ -27,7 +27,7 @@ export default function Contact() {
             <Link href='https://twitter.com/tesimune'>
               <a target='_blank' className='grid justify-center m-9'><TiSocialTwitter className='w-16 h-14 text-white shadow-2xl shadow-black bg-blue-400 rounded-lg p-2'/><span className='font-bold'>Twitter</span></a>
             </Link>
-            <Link href='https://www.linkedin.com/in/teslim-abdulwahab-151b72201/'>
+            <Link href='https://www.linkedin.com/in/tesimune/'>
               <a target='_blank' className='grid justify-center m-9'><TiSocialLinkedin className='w-16 h-14 text-white shadow-2xl shadow-black bg-blue-800 rounded-lg p-2'/><span className='font-bold'>Linkedin</span></a>
             </Link>
             <Link href='https://wa.me/+2348067988642'>

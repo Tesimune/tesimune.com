@@ -17,6 +17,7 @@ export default function Navbar() {
             <a href='#about'><span className='font-bold'>About Me</span></a>
             <a href='#skills'><span className='font-bold'>Skills</span></a>
             <a href='#index'><span className='font-bold'>Portfolio</span></a>
+            <a href='https://github.com/Tesimune' target='blank'><span className='font-bold'>GitHub</span></a>
             <a href='/Tesimune_CV.pdf' download><span className='font-bold'>CV</span></a>
             <a href='#contact'><span className='bg-black text-white p-3 hover:bg-slate-400 rounded-full'>CONTACT ME</span></a>
           </div>  
@@ -33,6 +34,7 @@ export default function Navbar() {
           <a href='#about'><span className='pl-3 font-bold text-xs'>About Me</span></a>
           <a href='#skills'><span className='pl-3 font-bold text-xs'>Skills</span></a>
           <a href='#index'><span className='pl-3 font-bold text-xs'>Portfolio</span></a>
+            <a href='https://github.com/Tesimune' target='blank'><span className='pl-3 font-bold text-xs'>GitHub</span></a>
           <a href='/Tesimune_CV.pdf' download><span className='pl-3 font-bold text-xs'>CV</span></a>
           <a href='#contact'><span className='bg-black text-white p-3 hover:bg-slate-400 rounded-full text-xs'>CONTACT ME</span></a>
         </nav>
