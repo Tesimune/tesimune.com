@@ -43,11 +43,11 @@ I'm currently a Remote Full Stack developer at Analogueshifts!)
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 <p align="center">
-	<a href="https://twitter.com/tesimune"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/tesimune"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/tesimune"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://github.com/sponsors/tesimune"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
-	<a href="https://tesimune.vercel.app/Tesimune_CV.pdf"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+	<a href="https://twitter.com/tesimune"><img src="https://github.com/terrytangyuan/terrytangyuan/raw/master/imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/tesimune"><img src="https://github.com/terrytangyuan/terrytangyuan/raw/master/imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/tesimune"><img src="https://github.com/terrytangyuan/terrytangyuan/raw/master/imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/tesimune"><img src="https://github.com/terrytangyuan/terrytangyuan/raw/master/imgs/sponsors.svg" alt="Sponsors"></a>
+	<a href="https://tesimune.vercel.app/Tesimune_CV.pdf"><img src="https://github.com/terrytangyuan/terrytangyuan/raw/master/imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 <i>Loved my projects? Please consider [donating](https://paypal.me/tesimune) to help it improve!</i>
 
