@@ -1,3 +1,10 @@
+<h1 align="center">Awesome GitHub Profile README
+<a href="https://twitter.com/tesimune" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<br>
+
+
+</div>
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 Pure and Applied Chemistry 𝚊𝚝 Kaduna State 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸3
@@ -38,4 +45,6 @@ I'm currently a Remote Full Stack developer at Analogueshifts!)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Tesimune on LinkedIn"/>](https://linkedin.com/in/tesimune)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Tesimune on Twitter"/>](https://twitter.com/tesimune)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Tesimune on Instagram"/>](https://instagram.com/tesimune)
+
+<i>Loved my projects? Please consider [donating](https://paypal.me/tesimune) to help it improve!</i>
 
