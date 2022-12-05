@@ -1,5 +1,4 @@
-<h1 align="center">Awesome GitHub Profile README
-<a href="https://twitter.com/tesimune" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<h1 align="center">Tesimune GitHub Profile README
 <br>
 
 
