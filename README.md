@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Tesimune 👋 I'm a 🚀 Full Stack Web Developer 🚀">
-</p>
+
 <h1 align="center">Tesimune GitHub Profile README
 <br>
 
@@ -50,3 +48,6 @@ I'm currently a Remote Full Stack developer at Analogueshifts!)
 
 <i>Loved my projects? Please consider [donating](https://paypal.me/tesimune) to help it improve!</i>
 
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+</p>
