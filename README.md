@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Tesimune 👋 I'm a 🚀 Full Stack Web Developer 🚀">
+</p>
 <h1 align="center">Tesimune GitHub Profile README
 <br>
 
