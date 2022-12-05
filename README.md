@@ -50,8 +50,3 @@ I'm currently a Remote Full Stack developer at Analogueshifts!)
 	<a href="https://tesimune.vercel.app/Tesimune_CV.pdf"><img src="https://github.com/terrytangyuan/terrytangyuan/raw/master/imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 <i>Loved my projects? Please consider [donating](https://paypal.me/tesimune) to help it improve!</i>
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tesimune.tesimune" alt="visitor badge"/>
-</p>
-
