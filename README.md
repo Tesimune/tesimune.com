@@ -42,12 +42,16 @@ I'm currently a Remote Full Stack developer at Analogueshifts!)
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Tesimune on LinkedIn"/>](https://linkedin.com/in/tesimune)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Tesimune on Twitter"/>](https://twitter.com/tesimune)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Tesimune on Instagram"/>](https://instagram.com/tesimune)
-
+<p align="center">
+	<a href="https://twitter.com/tesimune"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/tesimune"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/tesimune"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/tesimune"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+	<a href="https://tesimune.vercel.app/Tesimune_CV.pdf"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+</p>
 <i>Loved my projects? Please consider [donating](https://paypal.me/tesimune) to help it improve!</i>
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tesimune.tesimune" alt="visitor badge"/>
 </p>
+
