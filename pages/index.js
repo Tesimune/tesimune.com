@@ -9,6 +9,7 @@ import Skills from '../content/Skills'
 import Learning from '../content/Learning'
 import Contact from '../content/Contact'
 import Message from '../content/Message'
+import Projects from '../content/Projects'
 import Footer from '../content/components/Footer'
 
 
@@ -27,6 +28,7 @@ export default function Home() {
         <Learning/>
         <Contact/>
         <Message/>
+        <Projects />
       
       </main>
         <Footer/>
