@@ -5,7 +5,7 @@ export default function Index() {
   return (
     <div className='md:flex justify-between md:px-20 px-5' id='index'>
       <div className='font-bold mt-9'>
-        <Image src='/teslim.jpg' alt='teslim' width={150} height={150} className='rounded-full hidden md:block' />
+        <Image src='/profile.png' alt='teslim' width={190} height={190} className='object-contain rounded-full hidden md:block' />
         <p className='text-xl mt-5'>Hi, I am</p>
         <p className='text-4xl mt-9'>Teslim of Tesimune</p>
         <p className='text-gray-400 mt-3'>Full-Stack Developer</p>
