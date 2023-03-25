@@ -5,8 +5,11 @@ export default function Header() {
   return (
     <Head>
         <title>Tesimune</title>
-        <meta name="description" content="Tesimune Portfolio" />
-        <link rel="icon" href="/favicon.ico" />
+        <meta property="og:title" content="Tesimune Portfolio" />
+        <meta property="og:description" content="Teslime Tesimune Portfolio" />
+        <meta property="og:image" content="/profile.png" />
+        <meta property="og:url" content="https://tesimune.vercel.app" />
+        <link rel="icon" href="/profile.png" />
     </Head>
   )
 }
