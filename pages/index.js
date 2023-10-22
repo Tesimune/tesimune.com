@@ -1,5 +1,3 @@
-import Head from 'next/head'
-import Image from 'next/image'
 import Header from '../content/components/Header'
 import Navbar from '../content/Navbar'
 import Index from '../content/Index'
@@ -17,6 +15,8 @@ import Footer from '../content/components/Footer'
 export default function Home() {
   return (
     <div className='bg-white relative h-screen'>
+      
+
       <Header/>
 
       <main className=''>
@@ -29,9 +29,9 @@ export default function Home() {
         <Contact/>
         <Message/>
         <Projects />
-      
       </main>
-        <Footer/>
+
+      <Footer/>
       
     </div>
   )
